@@ -3,8 +3,8 @@
     
 --- 
 
-main.tf --- 
-outputs.tf ---
+main.tf --- https://github.com/dvbychkov/clopro-homeworks-15.2/blob/master/main.tf
+outputs.tf --- https://github.com/dvbychkov/clopro-homeworks-15.2/blob/master/outputs.tf
 
 <img src = "img/1.JPG" width = 50%>
 
